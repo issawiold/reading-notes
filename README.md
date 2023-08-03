@@ -10,4 +10,4 @@
 3.**web developer**: I've learned how to build an entire website using javaScript , with both the back-end and the front end
 I've learnt a lot like the many libraries that we used such as:
 * express, pg/postgress , axios , dotenv , cors , etc... for the back-end (node js)
-* bootstrap ,dotenv ,redux-toolkit
+* bootstrap ,dotenv ,redux-toolkit(react)
