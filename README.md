@@ -11,3 +11,8 @@
 I've learnt a lot like the many libraries that we used such as:
 * express, pg/postgress , axios , dotenv , cors , etc... for the back-end (node js)
 * bootstrap ,dotenv ,redux-toolkit(react)
+
+|  id      | Title | Link   |
+|:----:   |:----: | :----:   |
+|1| Reading Class One| [a Link](https://github.com/issawiold/reading-notes/tree/main/class%201)|
+|2| Reading Class Two| [a Link](https://github.com/issawiold/reading-notes/tree/main/class%202)|
