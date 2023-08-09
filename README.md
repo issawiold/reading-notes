@@ -14,5 +14,6 @@ I've learnt a lot like the many libraries that we used such as:
 
 |  id      | Title | Link   |
 |:----:   |:----: | :----:   |
-|1| Reading Class One| [a Link](https://github.com/issawiold/reading-notes/tree/main/class%201)|
-|2| Reading Class Two| [a Link](https://github.com/issawiold/reading-notes/tree/main/class%202)|
+|1| Reading Class One| [Link](https://github.com/issawiold/reading-notes/tree/main/class%201)|
+|2| Reading Class Two| [Link](https://github.com/issawiold/reading-notes/tree/main/class%202)|
+|3| Reading Class Three| [Link](https://github.com/issawiold/reading-notes/tree/main/class%203)|
