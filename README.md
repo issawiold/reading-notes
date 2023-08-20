@@ -17,3 +17,6 @@ I've learnt a lot like the many libraries that we used such as:
 |1| Reading Class One| [Link](https://github.com/issawiold/reading-notes/tree/main/class%201)|
 |2| Reading Class Two| [Link](https://github.com/issawiold/reading-notes/tree/main/class%202)|
 |3| Reading Class Three| [Link](https://github.com/issawiold/reading-notes/tree/main/class%203)|
+|4| Reading Class Three| [Link](https://github.com/issawiold/reading-notes/tree/main/class%204)|
+|5| Reading Class Three| [Link](https://github.com/issawiold/reading-notes/tree/main/class%205)|
+|6| Reading Class Three| [Link](https://github.com/issawiold/reading-notes/tree/main/class%206)|
