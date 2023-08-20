@@ -118,6 +118,6 @@ then use the commands
 
 javac is the name of the compiler of java
 
-then **java filename **
+then **java filename**
 
-**THE END **
+**THE END**
