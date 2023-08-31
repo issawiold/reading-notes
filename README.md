@@ -17,9 +17,11 @@ I've learnt a lot like the many libraries that we used such as:
 |1| Reading Class One| [Link](https://github.com/issawiold/reading-notes/tree/main/class%201)|
 |2| Reading Class Two| [Link](https://github.com/issawiold/reading-notes/tree/main/class%202)|
 |3| Reading Class Three| [Link](https://github.com/issawiold/reading-notes/tree/main/class%203)|
-|4| Reading Class Three| [Link](https://github.com/issawiold/reading-notes/tree/main/class%204)|
-|5| Reading Class Three| [Link](https://github.com/issawiold/reading-notes/tree/main/class%205)|
-|6| Reading Class Three| [Link](https://github.com/issawiold/reading-notes/tree/main/class%206)|
-|8| Reading Class Three| [Link](https://github.com/issawiold/reading-notes/tree/main/class%208)|
-|9| Reading Class Three| [Link](https://github.com/issawiold/reading-notes/tree/main/class%209)|
+|4| Reading Class Four| [Link](https://github.com/issawiold/reading-notes/tree/main/class%204)|
+|5| Reading Class Five| [Link](https://github.com/issawiold/reading-notes/tree/main/class%205)|
+|6| Reading Class Six| [Link](https://github.com/issawiold/reading-notes/tree/main/class%206)|
+|8| Reading Class Eight| [Link](https://github.com/issawiold/reading-notes/tree/main/class%208)|
+|9| Reading Class Nine| [Link](https://github.com/issawiold/reading-notes/tree/main/class%209)|
+|10| Reading Class Ten| [Link](https://github.com/issawiold/reading-notes/tree/main/class%210)|
+
 
