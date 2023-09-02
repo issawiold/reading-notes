@@ -22,4 +22,7 @@ I've learnt a lot like the many libraries that we used such as:
 |6| Reading Class Six| [Link](https://github.com/issawiold/reading-notes/tree/main/class%206)|
 |8| Reading Class Eight| [Link](https://github.com/issawiold/reading-notes/tree/main/class%208)|
 |9| Reading Class Nine| [Link](https://github.com/issawiold/reading-notes/tree/main/class%209)|
-|11| Reading Class Eleven| [Link](https://github.com/issawiold/reading-notes/tree/main/class%20101)|
+|10| Reading Class Ten| [Link](https://github.com/issawiold/reading-notes/tree/main/class%2010)|
+|11| Reading Class Eleven| [Link](https://github.com/issawiold/reading-notes/tree/main/class%2011)|
+
+
