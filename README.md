@@ -26,6 +26,7 @@ I've learnt a lot like the many libraries that we used such as:
 |11| Reading Class Eleven| [Link](https://github.com/issawiold/reading-notes/tree/main/class%2011)|
 |12| Reading Class twelve| [Link](https://github.com/issawiold/reading-notes/tree/main/class%2012)|
 |13| Reading Class thirteen| [Link](https://github.com/issawiold/reading-notes/tree/main/class%2013)|
+|14| Reading Class fourteen| [Link](https://github.com/issawiold/reading-notes/tree/main/class%2014)|
 
 
 
